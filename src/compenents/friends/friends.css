@@ -1,0 +1,10 @@
+.Glavny_block{
+    position: absolute;
+    margin: 100px 420px;
+    width: 550px;
+    height: 540px;
+    background-color: #323232;
+    box-shadow: 0 0 2px silver;
+    border-radius: 10px;
+    color: white;
+}

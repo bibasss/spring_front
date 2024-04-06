@@ -1,0 +1,205 @@
+  .Header{
+    position: absolute;
+    margin: 140px 420px;
+    width: 850px;
+    height: 170px;
+    background-color: #323232;
+    border-radius: 20px;
+    box-shadow: 0 0 2px silver;
+  }
+  
+  .avatarka {
+    position: absolute;
+    margin: -45px 12px;
+    border: 5px solid #323232ed;
+    width: 150px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .text{
+    position: absolute;
+    margin: 40px 180px;
+    font-size: 30px;
+    color: white;
+    font-family: Optima, sans-serif;
+  
+  }
+
+
+  .text2{
+    position: absolute;
+    margin: 80px 180px;
+    font-size: 15px;
+    color: silver;
+  }
+
+
+  .text3{
+    position: absolute;
+    margin: 25px 25px;
+    font-size: 15px;
+    color: silver;
+    font-family: Optima, sans-serif;
+
+  }
+
+  .img1{
+    position: absolute;
+    margin: 70px 20px;
+    border-radius: 10px;
+  }
+
+
+  .img2{
+    position: absolute;
+    margin: 70px 185px;
+    border-radius: 10px;
+  }
+
+
+  .img3{
+    position: absolute;
+    margin: 70px 350px;
+    border-radius: 10px;
+  }
+
+
+  .img4{
+    position: absolute;
+    margin: 70px 515px;
+    border-radius: 10px;
+  }
+
+
+  .img5{
+    position: absolute;
+    margin: 70px 680px;
+    border-radius: 10px;
+  }
+
+
+
+
+  itm1{
+    position: absolute;
+    margin: 230px 20px;
+    color: white;
+  }
+
+  itm2{
+    position: absolute;
+    margin: 230px 185px;
+    color: white;
+  }
+
+
+  itm3{
+    position: absolute;
+    margin: 230px 350px;
+    color: white;
+  }
+
+
+  itm4{
+    position: absolute;
+    margin: 230px 515px;
+    color: white;
+
+  }
+
+
+  itm5{
+    position: absolute;
+    margin: 230px 680px;
+    color: white;
+  }
+
+
+
+  .redaktirovat{
+position: absolute;
+border-radius: 10px;
+margin: 45px 550px;
+background-color: silver;
+text-align: center;
+height: 28px;
+width: 200px;
+}
+
+.redaktirovat a{
+  color: black;
+}
+
+
+  almaty{
+    position: absolute;
+    margin: 119px 205px;
+    color: silver;
+  }
+  almaty2{
+    position: absolute;
+    margin: 120px 300px;
+    color: silver;
+  }
+
+
+  .geo_profil{
+    position: absolute;
+    margin: 120px 180px;
+    font-size: 20px;
+    color: silver;
+  }
+
+  .info_profil{
+    position: absolute;
+    margin: 123px 275px;
+    color: silver;
+    font-size: 18px;
+  }
+
+.Playlist{
+  position: absolute;
+  margin: 330px 420px;
+  width: 850px;
+  height: 300px;
+  background-color: #323232;
+  border-radius: 20px;
+  box-shadow: 0 0 2px silver;
+}
+
+  .Nizhni{
+    position: absolute;
+    margin: 650px 420px;
+    width: 850px;
+    height: 250px;
+    background-color: #323232;
+    border-radius: 20px;
+    box-shadow: 0 0 2px silver;
+
+  }
+.fi fi-rs-marker{
+  margin: 200px 200px;
+}
+
+
+
+  text_post_profile{
+    position: absolute;
+    margin: 50px 250px;
+    width: 300px;
+
+  }
+
+
+  .PystoiStenaProfil{
+    position: absolute;
+    margin: 100px 350px;
+    font-size: 50px;
+    color: silver;
+  }
+
+

@@ -1,0 +1,30 @@
+.Glavny_block{
+    position: absolute;
+    margin: 100px 420px;
+    width: 550px;
+    height: 1500px;
+    background-color: #323232;
+    box-shadow: 0 0 2px silver;
+    border-radius: 10px;
+    color: white;
+}
+
+.DialogComponent {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.messagePanel {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.messageContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.messageField {
+    margin-bottom: 5px;
+}
